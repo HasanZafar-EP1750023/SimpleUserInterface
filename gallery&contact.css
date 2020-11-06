@@ -1,7 +1,7 @@
 div.gallery {
-  background-color: skyblue;
+  background-color: lemonchiffon;
     margin: 0px;
-    border: 1px solid skyblue;
+    border: 1px solid lemonchiffon;
     float: left;
     width: 790px;
   }
@@ -22,6 +22,7 @@ div.gallery {
   #gallery_heading{
     text-align: center;
     font-size: 82px;
+    background-color: lemonchiffon;
   }
   input[type=text], select, textarea {
     width: 100%;
@@ -51,5 +52,5 @@ div.gallery {
   
     
   body {
-    background-color: lightblue;
+    background-color:lemonchiffon;
   }
